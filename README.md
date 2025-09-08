@@ -4,7 +4,7 @@
 
 <h1>
   Hi there, I'm Irfan Rao 
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFrcGczNGcxYTJ4c2Z1c2dhYjN1Y2lxOGQxYjFzajdlZXI4bjFxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jrf7sINanJ3KWLQQDe/giphy.gif)" width="30px"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVzdW5pbWN2ZG4zbWdqNml1cTdwdXR1dGppdm1pdmtpaWU0dWsxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jrf7sINanJ3KWLQQDe/giphy.gif" width="30px"/>
 </h1>
 
 ### About Me :
