@@ -1,10 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=ecf05e477qv64cg668wjem46n5j6mh4htwg2f8ei2cui4qkn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVzdW5pbWN2ZG4zbWdqNml1cTdwdXR1dGppdm1pdmtpaWU0dWsxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jrf7sINanJ3KWLQQDe/giphy.gif" width="200"/>
 </div>
 
 <h1>
   Hi there, I'm Irfan Rao 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVzdW5pbWN2ZG4zbWdqNml1cTdwdXR1dGppdm1pdmtpaWU0dWsxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jrf7sINanJ3KWLQQDe/giphy.gif" width="30px"/>
 </h1>
 
 ### About Me :
