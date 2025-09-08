@@ -24,7 +24,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-![Javascript](https://img.shields.io/badge/React Native-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Javascript](https://img.shields.io/badge/React%20Native-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/bootstrap-%23E0234E.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
