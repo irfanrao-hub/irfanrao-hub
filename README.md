@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :male-technologist: About Me :
+### About Me :
 
 :telescope: Passionate Full-Stack Software Engineer immersed in the ever-evolving landscape of web technologies and applied artificial intelligence.
 
