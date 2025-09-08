@@ -9,36 +9,32 @@
 
 ### About Me :
 
-:telescope: Passionate Full-Stack Software Engineer immersed in the ever-evolving landscape of web technologies and applied artificial intelligence.
+:telescope: Passionate React Native Developer dedicated to crafting seamless, high-performing mobile experiences for both iOS and Android.
 
-:rocket: Specializing in architecting and developing high-quality, scalable, and performant applications leveraging the MERN stack, and AI-driven solutions.
+:rocket: Skilled in building scalable, maintainable, and user-friendly applications with React Native, JavaScript (ES6+), and modern mobile development practices.
 
-:brain: Proficient in integrating machine learning models, natural language processing (NLP), and AI-powered automation workflows into modern web applications.
+:brain: Proficient in API integrations, state management (Redux), and performance optimization, with a strong focus on clean architecture and reusable components.
 
-:hammer_and_wrench: Experienced in building solutions that solve complex, real-world problems through data-driven architectures, REST/GraphQL APIs, and microservices.
+:hammer_and_wrench: Experienced in translating business needs into intuitive mobile solutions, integrating third-party libraries, and working with RESTful APIs and Firebase.
 
-:dancers: Open to collaborating on open-source projects, AI/ML integrations, and innovative web development initiatives.
+:dancers: Open to collaborating on innovative mobile apps, UI/UX-driven projects, and open-source contributions in the React Native ecosystem.
 
-:earth_americas: On the move: Navigating the digital world with my MacBook as my primary development environment.
+:earth_americas: On the move: Turning ideas into functional, eye-catching mobile applications — one commit at a time.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-![FaniRAo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Javascript](https://img.shields.io/badge/React Native-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/bootstrap-%23E0234E.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%232671E5.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=json&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-%230081CB.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Gulp](https://img.shields.io/badge/gulp-316192?style=for-the-badge&logo=gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Strapi](https://img.shields.io/badge/Strapi-%234945ff?style=for-the-badge&logo=webpack&logoColor=%234945ff)
 ![Mongodb](https://img.shields.io/badge/mongodb-%23593d88.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-orange.svg?style=for-the-badge&logo=axios&logoColor=white)
-![Less](https://img.shields.io/badge/less-%23E0234E.svg?style=for-the-badge&logo=less&logoColor=white)
